@@ -13,12 +13,10 @@ public class Account : ICloneable, IMyCloneable<Account>
 
 
     public object Clone()
-    {
-        throw new NotImplementedException();
-    }
+        => Copy();
 
     public virtual Account Copy()
-        => new Account(Number, Owner);
+        => new Account(Number + 10, Owner);
 
     public override string ToString()
     {

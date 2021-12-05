@@ -13,3 +13,6 @@
 /Users/mikhail/Projects/otus/otus_hw10_prototype/ProtoConsole/obj/Debug/net6.0/ref/ProtoConsole.dll
 /Users/mikhail/Projects/otus/otus_hw10_prototype/ProtoConsole/obj/Debug/net6.0/ProtoConsole.pdb
 /Users/mikhail/Projects/otus/otus_hw10_prototype/ProtoConsole/obj/Debug/net6.0/ProtoConsole.genruntimeconfig.cache
+/Users/mikhail/Projects/otus/otus_hw10_prototype/ProtoConsole/bin/Debug/net6.0/ProtoClass.dll
+/Users/mikhail/Projects/otus/otus_hw10_prototype/ProtoConsole/bin/Debug/net6.0/ProtoClass.pdb
+/Users/mikhail/Projects/otus/otus_hw10_prototype/ProtoConsole/obj/Debug/net6.0/ProtoConsole.csproj.CopyComplete
