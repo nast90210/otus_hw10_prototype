@@ -1,0 +1,15 @@
+/Users/mikhail/Projects/otus/otus_hw10_prototype/console/bin/Debug/net6.0/console
+/Users/mikhail/Projects/otus/otus_hw10_prototype/console/bin/Debug/net6.0/console.deps.json
+/Users/mikhail/Projects/otus/otus_hw10_prototype/console/bin/Debug/net6.0/console.runtimeconfig.json
+/Users/mikhail/Projects/otus/otus_hw10_prototype/console/bin/Debug/net6.0/console.dll
+/Users/mikhail/Projects/otus/otus_hw10_prototype/console/bin/Debug/net6.0/ref/console.dll
+/Users/mikhail/Projects/otus/otus_hw10_prototype/console/bin/Debug/net6.0/console.pdb
+/Users/mikhail/Projects/otus/otus_hw10_prototype/console/obj/Debug/net6.0/console.csproj.AssemblyReference.cache
+/Users/mikhail/Projects/otus/otus_hw10_prototype/console/obj/Debug/net6.0/console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikhail/Projects/otus/otus_hw10_prototype/console/obj/Debug/net6.0/console.AssemblyInfoInputs.cache
+/Users/mikhail/Projects/otus/otus_hw10_prototype/console/obj/Debug/net6.0/console.AssemblyInfo.cs
+/Users/mikhail/Projects/otus/otus_hw10_prototype/console/obj/Debug/net6.0/console.csproj.CoreCompileInputs.cache
+/Users/mikhail/Projects/otus/otus_hw10_prototype/console/obj/Debug/net6.0/console.dll
+/Users/mikhail/Projects/otus/otus_hw10_prototype/console/obj/Debug/net6.0/ref/console.dll
+/Users/mikhail/Projects/otus/otus_hw10_prototype/console/obj/Debug/net6.0/console.pdb
+/Users/mikhail/Projects/otus/otus_hw10_prototype/console/obj/Debug/net6.0/console.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+/Users/mikhail/Projects/otus/otus_hw10_prototype/class/obj/Debug/net6.0/class.csproj.AssemblyReference.cache
+/Users/mikhail/Projects/otus/otus_hw10_prototype/class/obj/Debug/net6.0/class.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikhail/Projects/otus/otus_hw10_prototype/class/obj/Debug/net6.0/class.AssemblyInfoInputs.cache
+/Users/mikhail/Projects/otus/otus_hw10_prototype/class/obj/Debug/net6.0/class.AssemblyInfo.cs
+/Users/mikhail/Projects/otus/otus_hw10_prototype/class/obj/Debug/net6.0/class.csproj.CoreCompileInputs.cache

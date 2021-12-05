@@ -1,0 +1,12 @@
+/Users/mikhail/Projects/otus/otus_hw10_prototype/ProtoClass/bin/Debug/net6.0/ProtoClass.deps.json
+/Users/mikhail/Projects/otus/otus_hw10_prototype/ProtoClass/bin/Debug/net6.0/ProtoClass.dll
+/Users/mikhail/Projects/otus/otus_hw10_prototype/ProtoClass/bin/Debug/net6.0/ref/ProtoClass.dll
+/Users/mikhail/Projects/otus/otus_hw10_prototype/ProtoClass/bin/Debug/net6.0/ProtoClass.pdb
+/Users/mikhail/Projects/otus/otus_hw10_prototype/ProtoClass/obj/Debug/net6.0/ProtoClass.csproj.AssemblyReference.cache
+/Users/mikhail/Projects/otus/otus_hw10_prototype/ProtoClass/obj/Debug/net6.0/ProtoClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikhail/Projects/otus/otus_hw10_prototype/ProtoClass/obj/Debug/net6.0/ProtoClass.AssemblyInfoInputs.cache
+/Users/mikhail/Projects/otus/otus_hw10_prototype/ProtoClass/obj/Debug/net6.0/ProtoClass.AssemblyInfo.cs
+/Users/mikhail/Projects/otus/otus_hw10_prototype/ProtoClass/obj/Debug/net6.0/ProtoClass.csproj.CoreCompileInputs.cache
+/Users/mikhail/Projects/otus/otus_hw10_prototype/ProtoClass/obj/Debug/net6.0/ProtoClass.dll
+/Users/mikhail/Projects/otus/otus_hw10_prototype/ProtoClass/obj/Debug/net6.0/ref/ProtoClass.dll
+/Users/mikhail/Projects/otus/otus_hw10_prototype/ProtoClass/obj/Debug/net6.0/ProtoClass.pdb

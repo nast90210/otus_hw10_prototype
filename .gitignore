@@ -1,0 +1,8 @@
+/.vs/otus_hw10_prototype/xs/
+.idea
+.vs
+.vscode
+Prototype.Class/bin/*
+Prototype.Class/obj/*
+Prototype.Console/bin/*
+Prototype.Console/obj/*
